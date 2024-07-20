@@ -1,6 +1,5 @@
 Hello I'm Vishal Honde
-About me:
-TY BTECH Engineering student and Avid gamer.
+ I'm TY BTECH student and Avid gamer.
 Skills:
 Python, JavaScript, 
 Fun fact:
